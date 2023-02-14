@@ -13,3 +13,4 @@ export const GlobalColors = {
         slate: '#DCDED3'
     }
 }
+
